@@ -5,3 +5,11 @@ fp-info-cache
 *-bak
 *.step
 *.stp
+bom
+*-backups
+
+#fw
+build/
+*.jdebug
+*.ioc
+*.mxproject
