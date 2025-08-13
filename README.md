@@ -7,7 +7,7 @@ It features a cheap STM32F030 as brains with I2C as main IO to the host controll
 <table>
   <tbody>
     <tr>
-      <td cellspan="2">
+      <td colspan="2">
         <img src="images/IMG_4679.jpg"/>
       </td>
     </tr>
